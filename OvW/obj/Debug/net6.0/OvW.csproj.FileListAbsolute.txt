@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\OvW\OvW\bin\Debug\net6.0\OvW.exe
+C:\Users\andre\Downloads\c#\OvW\OvW\bin\Debug\net6.0\OvW.deps.json
+C:\Users\andre\Downloads\c#\OvW\OvW\bin\Debug\net6.0\OvW.runtimeconfig.json
+C:\Users\andre\Downloads\c#\OvW\OvW\bin\Debug\net6.0\OvW.dll
+C:\Users\andre\Downloads\c#\OvW\OvW\bin\Debug\net6.0\OvW.pdb
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.dll
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\refint\OvW.dll
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.pdb
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\OvW.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\OvW\OvW\obj\Debug\net6.0\ref\OvW.dll
